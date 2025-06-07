@@ -1,10 +1,137 @@
 {
-    "namePlates": [
-    ],
-    "hats": [
-    ],
-    "visors": [
-    ],
-    "packages": [
-    ]
+	"BundleName" : null,
+	"Hats" : [
+		{
+			"EnterVent" : {
+				"Hash" : "9971a1f4d7c84ee64b0cdd3d31eb9242",
+				"Address" : "A29HjfO3b_EnterVent.png",
+				"ExIsFront" : False
+			},
+			"Main" : {
+				"Hash" : "9971a1f4d7c84ee64b0cdd3d31eb9242",
+				"Address" : "A29HjfO3b_Main.png",
+				"ExIsFront" : False
+			},
+			"Move" : {
+				"Hash" : "9971a1f4d7c84ee64b0cdd3d31eb9242",
+				"Address" : "A29HjfO3b_Move.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "8863e0f3c16e9849688a8c5ff6ebc830",
+				"Address" : "A29HjfO3b_Climb.png",
+				"ExIsFront" : False
+			},
+			"Preview" : {
+				"Hash" : "87c419e93500b28fcb04201f978e8454",
+				"Address" : "A29HjfO3b_Preview.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "rhynhmic_revolution_shiro_v1",
+			"Author" : "yurisi_OneQuart",
+			"Package" : "None",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "cf11d64d14296bb17ecba5ca1c47eaf6",
+				"Address" : "yzszpSa2_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "d9e89f730dc8dafef8ef5e55d20ece5d",
+				"Address" : "yzszpSa2_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : True,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "hijiki",
+			"Author" : "goma",
+			"Package" : "None",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "d6fc9dbff982839b2bc4c33244b51497",
+				"Address" : "nKPn8j4oc_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "1a5893cd7938ba7b5bb1f8514e01da47",
+				"Address" : "nKPn8j4oc_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "kelokelo",
+			"Author" : "goma",
+			"Package" : "None",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		}
+	],
+	"Visors" : [
+		{
+			"Main" : {
+				"Hash" : "94f5aa5037dd89b53a9db6e7beac798d",
+				"Address" : "px90Slfb_Main.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : True,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "Power",
+			"Author" : "goma",
+			"Package" : "None",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "05f67c0a376a6ff32f2dd2ca375fe0de",
+				"Address" : "3b_Main.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "939ee138921360bcbb5fd31826af62f7",
+				"Address" : "3b_Flip.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "u",
+			"Author" : "goma",
+			"Package" : "None",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		}
+	],
+	"Nameplates" : [
+	],
+	"Stamps" : [
+	],
+	"Packages" : [
+	],
+	"IsLocalizable" : True
 }
