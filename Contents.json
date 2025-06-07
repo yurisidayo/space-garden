@@ -35,7 +35,7 @@
 			"FPS" : 1,
 			"Name" : "rhynhmic_revolution_shiro_v1",
 			"Author" : "yurisi_OneQuart",
-			"Package" : "None",
+			"Package" : "SPACE GARDEN",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
 		},
@@ -58,7 +58,7 @@
 			"FPS" : 1,
 			"Name" : "hijiki",
 			"Author" : "goma",
-			"Package" : "None",
+			"Package" : "SPACE GARDEN",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
 		},
@@ -81,7 +81,7 @@
 			"FPS" : 1,
 			"Name" : "kelokelo",
 			"Author" : "goma",
-			"Package" : "None",
+			"Package" : "SPACE GARDEN",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
 		},
@@ -104,30 +104,33 @@
 			"FPS" : 1,
 			"Name" : "弓ポン新衣装",
 			"Author" : "弓ポン",
-			"Package" : "None",
+			"Package" : "SPACE GARDEN",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
 		}
 	],
 	"Visors" : [
 		{
+			"Adaptive" : True,
+			"BehindHat" : False,
+			"BackmostBack" : False,
 			"Main" : {
 				"Hash" : "94f5aa5037dd89b53a9db6e7beac798d",
 				"Address" : "px90Slfb_Main.png",
 				"ExIsFront" : False
 			},
-			"Adaptive" : True,
-			"BehindHat" : False,
-			"BackmostBack" : False,
 			"Fixed" : False,
 			"FPS" : 1,
 			"Name" : "Power",
 			"Author" : "goma",
-			"Package" : "None",
+			"Package" : "SPACE GARDEN",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
 		},
 		{
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
 			"Main" : {
 				"Hash" : "05f67c0a376a6ff32f2dd2ca375fe0de",
 				"Address" : "3b_Main.png",
@@ -138,14 +141,11 @@
 				"Address" : "3b_Flip.png",
 				"ExIsFront" : False
 			},
-			"Adaptive" : False,
-			"BehindHat" : False,
-			"BackmostBack" : False,
 			"Fixed" : False,
 			"FPS" : 1,
 			"Name" : "u",
 			"Author" : "goma",
-			"Package" : "None",
+			"Package" : "SPACE GARDEN",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
 		}
@@ -155,6 +155,12 @@
 	"Stamps" : [
 	],
 	"Packages" : [
+		{
+			"Package" : "SPACE GARDEN",
+			"Format" : "SPACE GARDEN",
+			"Priority" : 1,
+			"IsLocalizable" : True
+		}
 	],
 	"IsLocalizable" : True
 }
