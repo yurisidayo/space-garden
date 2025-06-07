@@ -2,11 +2,6 @@
 	"BundleName" : null,
 	"Hats" : [
 		{
-			"EnterVent" : {
-				"Hash" : "9971a1f4d7c84ee64b0cdd3d31eb9242",
-				"Address" : "A29HjfO3b_EnterVent.png",
-				"ExIsFront" : False
-			},
 			"Main" : {
 				"Hash" : "9971a1f4d7c84ee64b0cdd3d31eb9242",
 				"Address" : "A29HjfO3b_Main.png",
@@ -20,6 +15,11 @@
 			"Climb" : {
 				"Hash" : "8863e0f3c16e9849688a8c5ff6ebc830",
 				"Address" : "A29HjfO3b_Climb.png",
+				"ExIsFront" : False
+			},
+			"EnterVent" : {
+				"Hash" : "9971a1f4d7c84ee64b0cdd3d31eb9242",
+				"Address" : "A29HjfO3b_EnterVent.png",
 				"ExIsFront" : False
 			},
 			"Preview" : {
@@ -81,6 +81,29 @@
 			"FPS" : 1,
 			"Name" : "kelokelo",
 			"Author" : "goma",
+			"Package" : "None",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "3e06961fd29c3e5022d197bb2856a07b",
+				"Address" : "7ITB9Gubc_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "927c82c633a87783533511667f08a0de",
+				"Address" : "7ITB9Gubc_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "弓ポン新衣装",
+			"Author" : "弓ポン",
 			"Package" : "None",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
