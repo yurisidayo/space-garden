@@ -204,13 +204,13 @@
 	"Visors" : [
 		{
 			"Adaptive" : True,
+			"BehindHat" : False,
+			"BackmostBack" : False,
 			"Main" : {
 				"Hash" : "4ee82ae9c20376dccfc0cef555e29af2",
 				"Address" : "px90Slfb_Main.png",
 				"ExIsFront" : False
 			},
-			"BehindHat" : False,
-			"BackmostBack" : False,
 			"Fixed" : False,
 			"FPS" : 1,
 			"Name" : "Power",
@@ -221,6 +221,8 @@
 		},
 		{
 			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
 			"Main" : {
 				"Hash" : "e9a48204ca1be56a347bed25038f6b03",
 				"Address" : "3b_Main.png",
@@ -231,8 +233,6 @@
 				"Address" : "3b_Flip.png",
 				"ExIsFront" : False
 			},
-			"BehindHat" : False,
-			"BackmostBack" : False,
 			"Fixed" : False,
 			"FPS" : 1,
 			"Name" : "u",
@@ -243,6 +243,8 @@
 		},
 		{
 			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
 			"Main" : {
 				"Hash" : "2181a08fc980a429539837b04cd3f92f",
 				"Address" : "1ULOWZ58_Main.png",
@@ -253,8 +255,6 @@
 				"Address" : "1ULOWZ58_Climb.png",
 				"ExIsFront" : False
 			},
-			"BehindHat" : False,
-			"BackmostBack" : False,
 			"Fixed" : False,
 			"FPS" : 1,
 			"Name" : "㋒　か　ん　む　り",
@@ -265,13 +265,13 @@
 		},
 		{
 			"Adaptive" : True,
+			"BehindHat" : False,
+			"BackmostBack" : False,
 			"Main" : {
 				"Hash" : "67e421e08f912a15621e20144269c4da",
 				"Address" : "kRaKoKdz_Main.png",
 				"ExIsFront" : False
 			},
-			"BehindHat" : False,
-			"BackmostBack" : False,
 			"Fixed" : False,
 			"FPS" : 1,
 			"Name" : "キューピッド",
@@ -282,6 +282,8 @@
 		},
 		{
 			"Adaptive" : False,
+			"BehindHat" : True,
+			"BackmostBack" : False,
 			"Main" : {
 				"Hash" : "e9a48204ca1be56a347bed25038f6b03",
 				"Address" : "qkQRJN8k_Main.png",
@@ -292,8 +294,6 @@
 				"Address" : "qkQRJN8k_Flip.png",
 				"ExIsFront" : False
 			},
-			"BehindHat" : True,
-			"BackmostBack" : False,
 			"Fixed" : False,
 			"FPS" : 1,
 			"Name" : "㋒\(背面の姿）",
@@ -304,13 +304,13 @@
 		},
 		{
 			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
 			"Main" : {
 				"Hash" : "f4686189af8dadd62e96d6ec89514f4b",
 				"Address" : "bQjo0z6L_Main.png",
 				"ExIsFront" : False
 			},
-			"BehindHat" : False,
-			"BackmostBack" : False,
 			"Fixed" : False,
 			"FPS" : 1,
 			"Name" : "\(__'ヮ'_\)",
@@ -323,8 +323,20 @@
 			"Adaptive" : True,
 			"BehindHat" : False,
 			"BackmostBack" : False,
+			"Main" : {
+				"Hash" : "cd9e60c495f8c6263c4f79c5d2d6719e",
+				"Length": 7,
+				"Address" : "glWcsyw_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "cd9e60c495f8c6263c4f79c5d2d6719e",
+				"Length": 7,
+				"Address" : "glWcsyw_Climb.png",
+				"ExIsFront" : False
+			},
 			"Fixed" : False,
-			"FPS" : 13,
+			"FPS" : 1,
 			"Name" : "キラキラ",
 			"Author" : "りょい",
 			"Package" : "SPACE GARDEN",
