@@ -203,12 +203,12 @@
 	],
 	"Visors" : [
 		{
+			"Adaptive" : True,
 			"Main" : {
 				"Hash" : "4ee82ae9c20376dccfc0cef555e29af2",
 				"Address" : "px90Slfb_Main.png",
 				"ExIsFront" : False
 			},
-			"Adaptive" : True,
 			"BehindHat" : False,
 			"BackmostBack" : False,
 			"Fixed" : False,
@@ -220,6 +220,7 @@
 			"IsLocalizable" : True
 		},
 		{
+			"Adaptive" : False,
 			"Main" : {
 				"Hash" : "e9a48204ca1be56a347bed25038f6b03",
 				"Address" : "3b_Main.png",
@@ -230,7 +231,6 @@
 				"Address" : "3b_Flip.png",
 				"ExIsFront" : False
 			},
-			"Adaptive" : False,
 			"BehindHat" : False,
 			"BackmostBack" : False,
 			"Fixed" : False,
@@ -242,6 +242,7 @@
 			"IsLocalizable" : True
 		},
 		{
+			"Adaptive" : False,
 			"Main" : {
 				"Hash" : "2181a08fc980a429539837b04cd3f92f",
 				"Address" : "1ULOWZ58_Main.png",
@@ -252,7 +253,6 @@
 				"Address" : "1ULOWZ58_Climb.png",
 				"ExIsFront" : False
 			},
-			"Adaptive" : False,
 			"BehindHat" : False,
 			"BackmostBack" : False,
 			"Fixed" : False,
@@ -264,12 +264,12 @@
 			"IsLocalizable" : True
 		},
 		{
+			"Adaptive" : True,
 			"Main" : {
 				"Hash" : "67e421e08f912a15621e20144269c4da",
 				"Address" : "kRaKoKdz_Main.png",
 				"ExIsFront" : False
 			},
-			"Adaptive" : True,
 			"BehindHat" : False,
 			"BackmostBack" : False,
 			"Fixed" : False,
@@ -281,6 +281,7 @@
 			"IsLocalizable" : True
 		},
 		{
+			"Adaptive" : False,
 			"Main" : {
 				"Hash" : "e9a48204ca1be56a347bed25038f6b03",
 				"Address" : "qkQRJN8k_Main.png",
@@ -291,13 +292,41 @@
 				"Address" : "qkQRJN8k_Flip.png",
 				"ExIsFront" : False
 			},
-			"Adaptive" : False,
 			"BehindHat" : True,
 			"BackmostBack" : False,
 			"Fixed" : False,
 			"FPS" : 1,
 			"Name" : "㋒\(背面の姿）",
 			"Author" : "goma",
+			"Package" : "SPACE GARDEN",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Adaptive" : False,
+			"Main" : {
+				"Hash" : "f4686189af8dadd62e96d6ec89514f4b",
+				"Address" : "bQjo0z6L_Main.png",
+				"ExIsFront" : False
+			},
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "\(__'ヮ'_\)",
+			"Author" : "goma_＆ごろにゃん",
+			"Package" : "SPACE GARDEN",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Adaptive" : True,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 13,
+			"Name" : "キラキラ",
+			"Author" : "りょい",
 			"Package" : "SPACE GARDEN",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
