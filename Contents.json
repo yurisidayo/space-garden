@@ -325,18 +325,23 @@
 			"BackmostBack" : False,
 			"Main" : {
 				"Hash" : "cd9e60c495f8c6263c4f79c5d2d6719e",
-				"Length": 7,
+				"Length": 6,
 				"Address" : "glWcsyw_Main.png",
 				"ExIsFront" : False
 			},
 			"Climb" : {
 				"Hash" : "cd9e60c495f8c6263c4f79c5d2d6719e",
-				"Length": 7,
+				"Length": 6,
 				"Address" : "glWcsyw_Climb.png",
 				"ExIsFront" : False
 			},
+			"Preview" : {
+				"Hash" : "a05f5bf2300e41f9c5c138aba44925f5",
+				"Address" : "glWcsyw_Preview.png",
+				"ExIsFront" : False
+			}
 			"Fixed" : False,
-			"FPS" : 1,
+			"FPS" : 6,
 			"Name" : "キラキラ",
 			"Author" : "りょい",
 			"Package" : "SPACE GARDEN",
