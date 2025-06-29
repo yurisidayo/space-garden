@@ -1,4 +1,4 @@
-{
+\{
 	"BundleName" : null,
 	"Hats" : [
 		{
@@ -87,7 +87,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "3e06961fd29c3e5022d197bb2856a07b",
+				"Hash" : "b03df6bcf095146e2bdc3ad0c47cc532",
 				"Address" : "7ITB9Gubc_Main.png",
 				"ExIsFront" : False
 			},
@@ -203,14 +203,14 @@
 	],
 	"Visors" : [
 		{
-			"Adaptive" : True,
-			"BehindHat" : False,
-			"BackmostBack" : False,
 			"Main" : {
 				"Hash" : "4ee82ae9c20376dccfc0cef555e29af2",
 				"Address" : "px90Slfb_Main.png",
 				"ExIsFront" : False
 			},
+			"Adaptive" : True,
+			"BehindHat" : False,
+			"BackmostBack" : False,
 			"Fixed" : False,
 			"FPS" : 1,
 			"Name" : "Power",
@@ -220,9 +220,6 @@
 			"IsLocalizable" : True
 		},
 		{
-			"Adaptive" : False,
-			"BehindHat" : False,
-			"BackmostBack" : False,
 			"Main" : {
 				"Hash" : "e9a48204ca1be56a347bed25038f6b03",
 				"Address" : "3b_Main.png",
@@ -233,6 +230,9 @@
 				"Address" : "3b_Flip.png",
 				"ExIsFront" : False
 			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
 			"Fixed" : False,
 			"FPS" : 1,
 			"Name" : "u",
@@ -242,9 +242,6 @@
 			"IsLocalizable" : True
 		},
 		{
-			"Adaptive" : False,
-			"BehindHat" : False,
-			"BackmostBack" : False,
 			"Main" : {
 				"Hash" : "2181a08fc980a429539837b04cd3f92f",
 				"Address" : "1ULOWZ58_Main.png",
@@ -255,6 +252,9 @@
 				"Address" : "1ULOWZ58_Climb.png",
 				"ExIsFront" : False
 			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
 			"Fixed" : False,
 			"FPS" : 1,
 			"Name" : "㋒　か　ん　む　り",
@@ -264,14 +264,14 @@
 			"IsLocalizable" : True
 		},
 		{
-			"Adaptive" : True,
-			"BehindHat" : False,
-			"BackmostBack" : False,
 			"Main" : {
 				"Hash" : "67e421e08f912a15621e20144269c4da",
 				"Address" : "kRaKoKdz_Main.png",
 				"ExIsFront" : False
 			},
+			"Adaptive" : True,
+			"BehindHat" : False,
+			"BackmostBack" : False,
 			"Fixed" : False,
 			"FPS" : 1,
 			"Name" : "キューピッド",
@@ -281,9 +281,6 @@
 			"IsLocalizable" : True
 		},
 		{
-			"Adaptive" : False,
-			"BehindHat" : True,
-			"BackmostBack" : False,
 			"Main" : {
 				"Hash" : "e9a48204ca1be56a347bed25038f6b03",
 				"Address" : "qkQRJN8k_Main.png",
@@ -294,6 +291,9 @@
 				"Address" : "qkQRJN8k_Flip.png",
 				"ExIsFront" : False
 			},
+			"Adaptive" : False,
+			"BehindHat" : True,
+			"BackmostBack" : False,
 			"Fixed" : False,
 			"FPS" : 1,
 			"Name" : "㋒\(背面の姿）",
@@ -303,14 +303,14 @@
 			"IsLocalizable" : True
 		},
 		{
-			"Adaptive" : False,
-			"BehindHat" : False,
-			"BackmostBack" : False,
 			"Main" : {
 				"Hash" : "f4686189af8dadd62e96d6ec89514f4b",
 				"Address" : "bQjo0z6L_Main.png",
 				"ExIsFront" : False
 			},
+			"Adaptive" : False,
+			"BehindHat" : True,
+			"BackmostBack" : False,
 			"Fixed" : False,
 			"FPS" : 1,
 			"Name" : "\(__'ヮ'_\)",
@@ -319,7 +319,7 @@
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
 		},
-		{
+	        {
 			"Adaptive" : True,
 			"BehindHat" : False,
 			"BackmostBack" : False,
@@ -348,22 +348,16 @@
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
 		}
-	],
-	"Nameplates" : [
-	],
-	"Stamps" : [
-	],
-	"Packages" : [
 		{
-			"Package" : "SPACE GARDEN",
-			"Format" : "SPACE GARDEN",
-			"Priority" : 1,
-			"IsLocalizable" : True
-		}
-	],
-	"IsLocalizable" : True
-}
-"Fixed" : False,
+			"Main" : {
+				"Hash" : "355105d0e00335ede126ac1fe0cfe12b",
+				"Address" : "d3bwpNJyb_Main.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : True,
+			"BackmostBack" : False,
+			"Fixed" : False,
 			"FPS" : 1,
 			"Name" : "あたまのわるいひと",
 			"Author" : "りょい、マッサーカー",
@@ -372,14 +366,14 @@
 			"IsLocalizable" : True
 		},
 		{
-			"Adaptive" : False,
-			"BehindHat" : True,
-			"BackmostBack" : False,
 			"Main" : {
 				"Hash" : "67a399c940bfc421f0cfdfaad9cda560",
 				"Address" : "Y4c6K7sYb_Main.png",
 				"ExIsFront" : False
 			},
+			"Adaptive" : False,
+			"BehindHat" : True,
+			"BackmostBack" : False,
 			"Fixed" : False,
 			"FPS" : 1,
 			"Name" : "回線が\.\.\.",
@@ -389,14 +383,14 @@
 			"IsLocalizable" : True
 		},
 		{
-			"Adaptive" : False,
-			"BehindHat" : False,
-			"BackmostBack" : False,
 			"Main" : {
 				"Hash" : "c50aacc064b83c19247a765a93501caa",
 				"Address" : "qwUEXJns_Main.png",
 				"ExIsFront" : False
 			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
 			"Fixed" : False,
 			"FPS" : 1,
 			"Name" : "㋒ヘルメット",
