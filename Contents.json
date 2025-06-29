@@ -363,3 +363,60 @@
 	],
 	"IsLocalizable" : True
 }
+"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "あたまのわるいひと",
+			"Author" : "りょい、マッサーカー",
+			"Package" : "SPACE GARDEN",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Adaptive" : False,
+			"BehindHat" : True,
+			"BackmostBack" : False,
+			"Main" : {
+				"Hash" : "67a399c940bfc421f0cfdfaad9cda560",
+				"Address" : "Y4c6K7sYb_Main.png",
+				"ExIsFront" : False
+			},
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "回線が\.\.\.",
+			"Author" : "りょい、マッサーカー",
+			"Package" : "SPACE GARDEN",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Main" : {
+				"Hash" : "c50aacc064b83c19247a765a93501caa",
+				"Address" : "qwUEXJns_Main.png",
+				"ExIsFront" : False
+			},
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "㋒ヘルメット",
+			"Author" : "ゆりしぃ",
+			"Package" : "SPACE GARDEN",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		}
+	],
+	"Nameplates" : [
+	],
+	"Stamps" : [
+	],
+	"Packages" : [
+		{
+			"Package" : "SPACE GARDEN",
+			"Format" : "SPACE GARDEN",
+			"Priority" : 1,
+			"IsLocalizable" : True
+		}
+	],
+	"IsLocalizable" : True
+}
