@@ -1,4 +1,4 @@
-\{
+{
 	"BundleName" : null,
 	"Hats" : [
 		{
@@ -319,23 +319,23 @@
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
 		},
-		{
+	       {
 			"Adaptive" : True,
 			"BehindHat" : False,
 			"Backmos：tBack" : False,
 			"Main" : {
 				"Hash" : "cd9e60c495f8c6263c4f79c5d2d6719e",
-				"Length": 6,
 				"Address" : "glWcsyw_Main.png",
 				"ExIsFront" : False,
+				"Length": 6,
 				"X"：7,
 				"Y"：1
 			},
 			"Climb" : {
 				"Hash" : "cd9e60c495f8c6263c4f79c5d2d6719e",
-				"Length": 6,
 				"Address" : "g1lWcsyw_Climb.png",
-				"ExIsFront" : False,：
+				"ExIsFront" : False,
+				"Length": 6,
 				"X"：7,
 				"Y"：1
 			},
@@ -343,7 +343,7 @@
 				"Hash" : "a05f5bf2300e41f9c5c138aba44925f5",
 				"Address" : "glWcsyw_Preview.png",
 				"ExIsFront" : False,
-				"Lenght"：1,
+				"Lenght"：6,
 				"X"：7,
 				"Y"：1
 			},
