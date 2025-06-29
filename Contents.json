@@ -347,7 +347,7 @@
 			"Package" : "SPACE GARDEN",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
-		}
+		},
 		{
 			"Main" : {
 				"Hash" : "355105d0e00335ede126ac1fe0cfe12b",
