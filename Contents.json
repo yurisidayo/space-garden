@@ -158,12 +158,16 @@
 			"Main" : {
 				"Hash" : "60cc728040d78b2893024feec2aeb591",
 				"Address" : "RrRvz57_Main.png",
-				"ExIsFront" : False
+				"ExHash" : "65abe0e74faaecd3451eff63f50b536a",
+				"ExAddress" : "u5bawj_Main.png",
+				"ExIsFront" : True,
 			},
 			"Climb" : {
 				"Hash" : "4a1a5e33579ec32d0c8b96f27c828e77",
 				"Address" : "RrRvz57_Climb.png",
-				"ExIsFront" : False
+				"ExHash" : "2fd677291a509fb75c339525a127e72b",
+				"ExAddress" : "u5bawj_Climb.png",
+				"ExIsFront" : True
 			},
 			"Bounce" : False,
 			"Adaptive" : True,
@@ -269,29 +273,7 @@
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
 		},
-		{
-			"Main" : {
-				"Hash" : "65abe0e74faaecd3451eff63f50b536a",
-				"Address" : "u5bawj_Main.png",
-				"ExIsFront" : False
-			},
-			"Climb" : {
-				"Hash" : "2fd677291a509fb75c339525a127e72b",
-				"Address" : "u5bawj_Climb.png",
-				"ExIsFront" : False
-			},
-			"Bounce" : False,
-			"Adaptive" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
-			"SeekerCostume" : True,
-			"FPS" : 1,
-			"Name" : "TEST",
-			"Author" : "ごま",
-			"Package" : "SPACE GARDEN",
-			"IsUnlockable" : False,
-			"IsLocalizable" : True
-		}
+
 	],
 	"Visors" : [
 		{
@@ -528,3 +510,4 @@
 	],
 	"IsLocalizable" : True
 }
+
