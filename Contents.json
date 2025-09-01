@@ -158,8 +158,8 @@
 			"Main" : {
 				"Hash" : "60cc728040d78b2893feec2aeb591024",
 				"Address" : "RrRvz57_Main.png",
-				"Hash" : "65abe0e74faaecd3451eff63f50b536a",
-				"Address" : "u5bawj_Main.png",
+				"ExHash" : "65abe0e74faaecd3451eff63f50b536a",
+				"ExAddress" : "u5bawj_Main.png",
 				"ExIsFront" : False,
 			},
 			"Climb" : {
@@ -554,6 +554,7 @@
 	],
 	"IsLocalizable" : True
 }
+
 
 
 
