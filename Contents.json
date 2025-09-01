@@ -160,7 +160,7 @@
 				"Address" : "RrRvz57_Main.png",
 				"Hash" : "65abe0e74faaecd3451eff63f50b536a",
 				"Address" : "u5bawj_Main.png",
-				"ExIsFront" : True,
+				"ExIsFront" : False,
 			},
 			"Climb" : {
 				"Hash" : "4a1a5e33579ec32d0c8b96f27c828e77",
@@ -539,72 +539,6 @@
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
 		},
-		{
-			"Back" : {
-				"Hash" : "d4dd7b7e4db6ea17a1103c73595f3312",
-				"Address" : "aCfFMbQwc_Main.png",
-				"ExIsFront" : False
-			},
-			"Climb" : {
-				"Hash" : "d4dd7b7e4db6ea17a1103c73595f3312",
-				"Address" : "aCfFMbQwc_Climb.png",
-				"ExIsFront" : False
-			},
-			"Adaptive" : False,
-			"BehindHat" : True,
-			"BackmostBack" : True,
-			"Fixed" : True,
-			"FPS" : 1,
-			"Name" : "グリーンバック　バイザー",
-			"Author" : "ごま",
-			"Package" : "SPACE GARDEN",
-			"IsUnlockable" : False,
-			"IsLocalizable" : True
-		},
-		{
-			"Back" : {
-				"Hash" : "18eca784a8e9d72f989a128dd80582a4",
-				"Address" : "aWA0a2bkb_Main.png",
-				"ExIsFront" : False
-			},
-			"Climb" : {
-				"Hash" : "18eca784a8e9d72f989a128dd80582a4",
-				"Address" : "aWA0a2bkb_Climb.png",
-				"ExIsFront" : False
-			},
-			"Adaptive" : False,
-			"BehindHat" : True,
-			"BackmostBack" : True,
-			"Fixed" : True,
-			"FPS" : 1,
-			"Name" : "ブルーバックバイザー",
-			"Author" : "ごま",
-			"Package" : "SPACE GARDEN",
-			"IsUnlockable" : False,
-			"IsLocalizable" : True
-		},
-		{
-			"Back" : {
-				"Hash" : "55173bd457bcf8e8bc6916643b60ab65",
-				"Address" : "OaCpjp8Ib_Main.png",
-				"ExIsFront" : False
-			},
-			"Climb" : {
-				"Hash" : "55173bd457bcf8e8bc6916643b60ab65",
-				"Address" : "OaCpjp8Ib_Climb.png",
-				"ExIsFront" : False
-			},
-			"Adaptive" : False,
-			"BehindHat" : True,
-			"BackmostBack" : True,
-			"Fixed" : True,
-			"FPS" : 1,
-			"Name" : "レッドバッグバイザー",
-			"Author" : "ごま",
-			"Package" : "SPACE GARDEN",
-			"IsUnlockable" : False,
-			"IsLocalizable" : True
-		}
 	],
 	"Nameplates" : [
 	],
@@ -620,6 +554,7 @@
 	],
 	"IsLocalizable" : True
 }
+
 
 
 
