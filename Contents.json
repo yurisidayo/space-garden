@@ -156,10 +156,10 @@
 		},
 		{
 			"Main" : {
+				"Hash" : "60cc728040d78b2893feec2aeb591024",
+				"Address" : "RrRvz57_Main.png",
 				"Hash" : "65abe0e74faaecd3451eff63f50b536a",
 				"Address" : "u5bawj_Main.png",
-				"ExHash" : "60cc728040d78b2893feec2aeb591024",
-				"ExAddress" : "RrRvz57_Main.png",
 				"ExIsFront" : True,
 			},
 			"Climb" : {
@@ -540,7 +540,7 @@
 			"IsLocalizable" : True
 		},
 		{
-			"Main" : {
+			"Back" : {
 				"Hash" : "d4dd7b7e4db6ea17a1103c73595f3312",
 				"Address" : "aCfFMbQwc_Main.png",
 				"ExIsFront" : False
@@ -553,7 +553,7 @@
 			"Adaptive" : False,
 			"BehindHat" : True,
 			"BackmostBack" : True,
-			"Fixed" : False,
+			"Fixed" : True,
 			"FPS" : 1,
 			"Name" : "グリーンバック　バイザー",
 			"Author" : "ごま",
@@ -562,7 +562,7 @@
 			"IsLocalizable" : True
 		},
 		{
-			"Main" : {
+			"Back" : {
 				"Hash" : "18eca784a8e9d72f989a128dd80582a4",
 				"Address" : "aWA0a2bkb_Main.png",
 				"ExIsFront" : False
@@ -575,7 +575,7 @@
 			"Adaptive" : False,
 			"BehindHat" : True,
 			"BackmostBack" : True,
-			"Fixed" : False,
+			"Fixed" : True,
 			"FPS" : 1,
 			"Name" : "ブルーバックバイザー",
 			"Author" : "ごま",
@@ -584,7 +584,7 @@
 			"IsLocalizable" : True
 		},
 		{
-			"Main" : {
+			"Back" : {
 				"Hash" : "55173bd457bcf8e8bc6916643b60ab65",
 				"Address" : "OaCpjp8Ib_Main.png",
 				"ExIsFront" : False
@@ -597,7 +597,7 @@
 			"Adaptive" : False,
 			"BehindHat" : True,
 			"BackmostBack" : True,
-			"Fixed" : False,
+			"Fixed" : True,
 			"FPS" : 1,
 			"Name" : "レッドバッグバイザー",
 			"Author" : "ごま",
@@ -620,6 +620,7 @@
 	],
 	"IsLocalizable" : True
 }
+
 
 
 
