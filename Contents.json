@@ -156,10 +156,10 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "60cc728040d78b2893feec2aeb591024",
 				"Address" : "RrRvz57_Main.png",
-				"ExHash" : "65abe0e74faaecd3451eff63f50b536a",
+				"Hash" : "60cc728040d78b2893feec2aeb591024",
 				"ExAddress" : "u5bawj_Main.png",
+				"ExHash" : "65abe0e74faaecd3451eff63f50b536a",
 				"ExIsFront" : False,
 			},
 			"Climb" : {
@@ -167,7 +167,7 @@
 				"Address" : "RrRvz57_Climb.png",
 				"ExHash" : "2fd677291a509fb75c339525a127e72b",
 				"ExAddress" : "u5bawj_Climb.png",
-				"ExIsFront" : True
+				"ExIsFront" : False,
 			},
 			"Bounce" : False,
 			"Adaptive" : True,
@@ -554,6 +554,7 @@
 	],
 	"IsLocalizable" : True
 }
+
 
 
 
