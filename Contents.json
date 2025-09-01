@@ -156,11 +156,11 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "60cc728040d78b2893024feec2aeb591",
-				"Address" : "RrRvz57_Main.png",
-				"ExHash" : "65abe0e74faaecd3451eff63f50b536a",
-				"ExAddress" : "u5bawj_Main.png",
-				"ExIsFront" : False,
+				"Hash" : "65abe0e74faaecd3451eff63f50b536a",
+				"Address" : "u5bawj_Main.png",
+				"ExHash" : "60cc728040d78b2893feec2aeb591024",
+				"ExAddress" : "RrRvz57_Main.png",
+				"ExIsFront" : True,
 			},
 			"Climb" : {
 				"Hash" : "4a1a5e33579ec32d0c8b96f27c828e77",
@@ -620,6 +620,7 @@
 	],
 	"IsLocalizable" : True
 }
+
 
 
 
