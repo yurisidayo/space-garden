@@ -133,12 +133,12 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "3a6dc8ec7a1f55fff30857740b976d83",
+				"Hash" : "7c515f87477ff2fcbe23b4b2dc969786",
 				"Address" : "Rkon9c_Main.png",
 				"ExIsFront" : False
 			},
 			"Climb" : {
-				"Hash" : "1c8d0b88274e733ec4a42d0e64baaab6",
+				"Hash" : "3c91c95772ce7aad6a845ab56b9062a5",
 				"Address" : "Rkon9c_Climb.png",
 				"ExIsFront" : False
 			},
@@ -297,6 +297,29 @@
 			"FPS" : 1,
 			"Name" : "大バッグ",
 			"Author" : "ゆりしぃ",
+			"Package" : "SPACE GARDEN",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "96f9a97a66de0e7938d41f4b35082211",
+				"Address" : "RQMOkA4O_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "fb7b2f4c8160145bf59bc4b5283200b7",
+				"Address" : "RQMOkA4O_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "kawasiro",
+			"Author" : "goma",
 			"Package" : "SPACE GARDEN",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
@@ -539,6 +562,64 @@
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
 		},
+		{
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 3,
+			"Name" : "download",
+			"Author" : "goma",
+			"Package" : "SPACE GARDEN",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+			"Main" : {
+				"Hash" : "2c1d59cc6e68fe5fc8c972755962bee8",
+				"Address" : "FI7eDXcuc_Main.png",
+				"ExIsFront" : False
+				"Length": 8
+			},
+			"CommSabAlternative " : {
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 3,
+			"Name" : "download",
+			"Author" : "goma",
+			"Package" : "SPACE GARDEN",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+			"Main" : {
+			"Hash" : "0dd524281584ae20920c471015eee287",
+			"Address" : "FI7eDXcuc_ClimbDownFlip.png",
+			"ExIsFront" : False
+			}
+		},
+		{
+			"Back" : {
+				"Hash" : "8391d7f51c34137938b168961b33aab0",
+				"Address" : "UTwY8c_Main.png",
+				"ExIsFront" : False
+				"Length": 6,
+			},
+			"Climb" : {
+				"Hash" : "8391d7f51c34137938b168961b33aab0",
+				"Address" : "UTwY8c_Climb.png",
+				"ExIsFront" : False
+				"Length": 6,
+			},
+			"Adaptive" : True,
+			"BackmostBack" : True,
+			"Fixed" : True,
+			"FPS" : 6,
+			"Name" : "カラーハーフトーン",
+			"Author" : "りょい",
+			"Package" : "SPACE GARDEN",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		}
+
 	],
 	"Nameplates" : [
 	],
@@ -554,6 +635,7 @@
 	],
 	"IsLocalizable" : True
 }
+
 
 
 
