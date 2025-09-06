@@ -566,8 +566,7 @@
 			"Main" : {
 				"Hash" : "2c1d59cc6e68fe5fc8c972755962bee8",
 				"Address" : "FI7eDXcuc_Main.png",
-				"ExIsFront" : False
-				"Length" : 8
+                "Length" : 8
 			},
 			"Adaptive" : False,
 			"BehindHat" : False,
@@ -584,13 +583,11 @@
 			"Back" : {
 				"Hash" : "8391d7f51c34137938b168961b33aab0",
 				"Address" : "UTwY8c_Main.png",
-				"ExIsFront" : False
-                "Length" : 6
+				"Length" : 6
 			},
 			"Climb" : {
 				"Hash" : "8391d7f51c34137938b168961b33aab0",
 				"Address" : "UTwY8c_Climb.png",
-				"ExIsFront" : False
 				"Length" : 6
 			},
 			"Adaptive" : True,
@@ -618,6 +615,7 @@
 	],
 	"IsLocalizable" : True
 }
+
 
 
 
