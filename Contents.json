@@ -567,6 +567,8 @@
 				"Hash" : "2c1d59cc6e68fe5fc8c972755962bee8",
 				"Address" : "FI7eDXcuc_Main.png",
                 "Length" : 8
+				"X" : 3,
+				"Y" : 3,
 			},
 			"Adaptive" : False,
 			"BehindHat" : False,
@@ -615,6 +617,7 @@
 	],
 	"IsLocalizable" : True
 }
+
 
 
 
