@@ -562,24 +562,13 @@
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
 		},
-		{
-			"Adaptive" : False,
-			"BehindHat" : False,
-			"BackmostBack" : False,
-			"Fixed" : False,
-			"FPS" : 8,
-			"Name" : "download",
-			"Author" : "goma",
-			"Package" : "SPACE GARDEN",
-			"IsUnlockable" : False,
-			"IsLocalizable" : True
+		       {
 			"Main" : {
 				"Hash" : "2c1d59cc6e68fe5fc8c972755962bee8",
 				"Address" : "FI7eDXcuc_Main.png",
 				"ExIsFront" : False
 				"Length" : 8
 			},
-			"CommSabAlternative " : {
 			"Adaptive" : False,
 			"BehindHat" : False,
 			"BackmostBack" : False,
@@ -590,11 +579,6 @@
 			"Package" : "SPACE GARDEN",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
-			"Main" : {
-			"Hash" : "0dd524281584ae20920c471015eee287",
-			"Address" : "FI7eDXcuc_ClimbDownFlip.png",
-			"ExIsFront" : False
-			}
 		},
 		{
 			"Back" : {
@@ -619,7 +603,6 @@
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
 		}
-
 	],
 	"Nameplates" : [
 	],
@@ -635,6 +618,7 @@
 	],
 	"IsLocalizable" : True
 }
+
 
 
 
