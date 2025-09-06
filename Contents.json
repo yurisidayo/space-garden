@@ -554,7 +554,7 @@
 			"Adaptive" : False,
 			"BehindHat" : True,
 			"BackmostBack" : False,
-			"Fixed" : True,
+			"Fixed" : false,
 			"FPS" : 1,
 			"Name" : "HIJIKI",
 			"Author" : "マッサーカー",
@@ -618,6 +618,7 @@
 	],
 	"IsLocalizable" : True
 }
+
 
 
 
