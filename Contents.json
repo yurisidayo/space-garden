@@ -564,11 +564,9 @@
 		},
 		       {
 			"Main" : {
-				"Hash" : "2c1d59cc6e68fe5fc8c972755962bee8",
-				"Address" : "FI7eDXcuc_Main.png",
+				"Hash" : "1bb6feb9f845270a652046eee240bdc8",
+				"Address" : "3ddJk7PBb_Main.png",
                 "Length" : 8
-				"X" : 3,
-				"Y" : 3,
 			},
 			"Adaptive" : False,
 			"BehindHat" : False,
@@ -617,6 +615,7 @@
 	],
 	"IsLocalizable" : True
 }
+
 
 
 
