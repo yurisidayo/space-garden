@@ -323,6 +323,34 @@
 			"Package" : "SPACE GARDEN",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
+		},
+		{
+			"Back" : {
+				"Hash" : "a93638e6ccd7abe1566abd0528862cea",
+				"Address" : "ZZUNNakCb_Back.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "7891ff29f6ab64d0152435098522a06f",
+				"Address" : "ZZUNNakCb_Climb.png",
+				"ExIsFront" : False
+			},
+			"Preview" : {
+				"Hash" : "a93638e6ccd7abe1566abd0528862cea",
+				"Address" : "ZZUNNakCb_Preview.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "AmoSaurus",
+			"Author" : "goma",
+			"Package" : "SPACE GARDEN",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		}
 	],
 	"Visors" : [
@@ -602,6 +630,20 @@
 		}
 	],
 	"Nameplates" : [
+		{
+			"Plate" : {
+				"Hash" : "79c97db7bb8187259a4d10ac7523f2ad",
+				"Address" : "IySbLTHPb_Plate.png",
+				"ExIsFront" : False
+			},
+			"AdaptiveInFront" : True,
+			"Name" : "ひじきの呪い",
+			"Author" : "catudon",
+			"Package" : "SPACE GARDEN",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		}
+
 	],
 	"Stamps" : [
 	],
@@ -615,6 +657,7 @@
 	],
 	"IsLocalizable" : True
 }
+
 
 
 
