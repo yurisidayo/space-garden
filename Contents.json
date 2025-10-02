@@ -654,6 +654,33 @@
 			"Package" : "SPACE GARDEN",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
+		},
+				{
+			"Preview" : {
+				"Hash" : "d4dd7b7e4db6ea17a1103c73595f3312",
+				"Address" : "kWomA7WHb_Preview.png",
+				"ExIsFront" : False
+			},
+			"Back" : {
+				"Hash" : "d4dd7b7e4db6ea17a1103c73595f3312",
+				"Address" : "kWomA7WHb_Back.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "d4dd7b7e4db6ea17a1103c73595f3312",
+				"Address" : "kWomA7WHb_Climb.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : True,
+			"BackmostBack" : True,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "再臨のグリーンバッグ",
+			"Author" : "ごま",
+			"Package" : "SPACE GARDEN",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		}
 	],
 	"Nameplates" : [
@@ -684,6 +711,7 @@
 	],
 	"IsLocalizable" : True
 }
+
 
 
 
