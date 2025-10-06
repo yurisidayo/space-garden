@@ -351,6 +351,57 @@
 			"Package" : "SPACE GARDEN",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
+		},
+				{
+			"Main" : {
+				"Hash" : "4b363161fea3d21b9a25890bcf11ab33",
+				"Address" : "jx51SDw_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "f0c8a4767b8fea96e4d7f76b3ef0f650",
+				"Address" : "jx51SDw_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "マカロン",
+			"Author" : "マカロン",
+			"Package" : "SPACE GARDEN",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "6c41c46c93a454a3a490d43f3dd4385f",
+				"Address" : "IhqVuiMZb_Main.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "a98128b63bc858985949dc0b06a45ed1",
+				"Address" : "IhqVuiMZb_Flip.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "54716ce08e9a43d887c6dbc42d258beb",
+				"Address" : "IhqVuiMZb_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "ゆりしぃの代理ちゃん",
+			"Author" : "ネコカボチャ",
+			"Package" : "SPACE GARDEN",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		}
 	],
 	"Visors" : [
@@ -681,6 +732,72 @@
 			"Package" : "SPACE GARDEN",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
+		},
+			{
+			"Main" : {
+				"Hash" : "2543e65f4db554deca42d8016ecfbe7d",
+				"Address" : "pksWHnAUb_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "f183010faccf34bab33097b51312c443",
+				"Address" : "pksWHnAUb_Climb.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "刺さっちゃった",
+			"Author" : "ネコカボチャ",
+			"Package" : "SPACE GARDEN",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "137a1ecc7969d3ed4d8124a9e29ae037",
+				"Address" : "SNFnoLxb_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "9ef1fd2da91ed0d4076b9cd83dbf839b",
+				"Address" : "SNFnoLxb_Climb.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "fixer",
+			"Author" : "ネコカボチャ",
+			"Package" : "SPACE GARDEN",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "9d86f9ed2b10b9f4c37f1af353a6e24a",
+				"Address" : "LLnWo9aMb_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "17540c97c7de83f8ad6d9b5ccdca0c0b",
+				"Address" : "LLnWo9aMb_Climb.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "スクープ!!",
+			"Author" : "ネコカボチャ",
+			"Package" : "SPACE GARDEN",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		}
 	],
 	"Nameplates" : [
@@ -711,6 +828,7 @@
 	],
 	"IsLocalizable" : True
 }
+
 
 
 
