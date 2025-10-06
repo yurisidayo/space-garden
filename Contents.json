@@ -398,7 +398,7 @@
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "ゆりしぃの代理ちゃん",
-			"Author" : "ネコカボチャ",
+			"Author" : "ねこかぼちゃ",
 			"Package" : "SPACE GARDEN",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
@@ -750,7 +750,7 @@
 			"Fixed" : False,
 			"FPS" : 1,
 			"Name" : "刺さっちゃった",
-			"Author" : "ネコカボチャ",
+			"Author" : "ねこかぼちゃ",
 			"Package" : "SPACE GARDEN",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
@@ -772,7 +772,7 @@
 			"Fixed" : False,
 			"FPS" : 1,
 			"Name" : "fixer",
-			"Author" : "ネコカボチャ",
+			"Author" : "ねこかぼちゃ",
 			"Package" : "SPACE GARDEN",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
@@ -794,7 +794,7 @@
 			"Fixed" : False,
 			"FPS" : 1,
 			"Name" : "スクープ!!",
-			"Author" : "ネコカボチャ",
+			"Author" : "ねこかぼちゃ",
 			"Package" : "SPACE GARDEN",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
@@ -828,6 +828,7 @@
 	],
 	"IsLocalizable" : True
 }
+
 
 
 
