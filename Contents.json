@@ -982,7 +982,19 @@
 		}
 	],
 	"Stamps" : [
-		
+		{
+            "Author": "catudon",
+            "Package": "SPACE GARDEN",
+            "Name": "ひじき",
+            "Adaptive" : "true",
+            "Image": {
+                "Address": "LoDe.png",
+                "Hash" : "cb15c0a0244aa5422f6459e69cfcef4e8b85f1c2",
+                "ExAddress": "LoDe_ExH.png",
+                "ExHash" : "fd7a0582397bd971072ea3497db6e3a3e647ae3a",
+                "ExIsFront": "true"
+            }
+        },
 	],
 	"Packages" : [
 		{
@@ -994,6 +1006,7 @@
 	],
 	"IsLocalizable" : True
 }
+
 
 
 
