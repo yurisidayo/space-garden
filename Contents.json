@@ -351,9 +351,87 @@
 			"Package" : "SPACE GARDEN",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
+		},
+				{
+			"Main" : {
+				"Hash" : "4b363161fea3d21b9a25890bcf11ab33",
+				"Address" : "jx51SDw_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "f0c8a4767b8fea96e4d7f76b3ef0f650",
+				"Address" : "jx51SDw_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "マカロン",
+			"Author" : "マカロン",
+			"Package" : "SPACE GARDEN",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "6c41c46c93a454a3a490d43f3dd4385f",
+				"Address" : "IhqVuiMZb_Main.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "a98128b63bc858985949dc0b06a45ed1",
+				"Address" : "IhqVuiMZb_Flip.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "54716ce08e9a43d887c6dbc42d258beb",
+				"Address" : "IhqVuiMZb_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "ゆりしぃの代理ちゃん",
+			"Author" : "ねこかぼちゃ",
+			"Package" : "SPACE GARDEN",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		}
 	],
 	"Visors" : [
+		{
+            "Main" : {
+                "Hash" : "6108bc222c829433ffd8652c1756d842",
+                "Address" : "VxLwMTHPb_Main.png",
+                "ExHash" : "ee2cba0fcd62bc5dc7547b329b686a7d",
+                "ExAddress" : "XhhB7c_Main.png",
+                "ExIsFront" : True
+            },
+            "Move" : {
+                "Hash" : "bd74fdf034709ec13413ee2cbc3d533a",
+                "Address" : "VxLwMTHPb_Move.png",
+                "Length" : 6,
+                "ExHash" : "b9d6e6831fc5ce88f1c51a47fdd59469",
+                "ExAddress" : "XhhB7c_Move.png",
+                "ExIsFront" : True
+            },
+            "Adaptive" : True,
+            "BehindHat" : False,
+            "BackmostBack" : False,
+            "Fixed" : False,
+            "FPS" : 12,
+            "Name" : "ひじきボール",
+            "Author" : "マッサーカー",
+            "Package" : "SPACE GARDEN",
+            "IsUnlockable" : False,
+            "IsLocalizable" : True
+        },
 		{
 			"Main" : {
 				"Hash" : "4ee82ae9c20376dccfc0cef555e29af2",
@@ -627,7 +705,266 @@
 			"Package" : "SPACE GARDEN",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
-		}
+		},
+				{
+			"Preview" : {
+				"Hash" : "d4dd7b7e4db6ea17a1103c73595f3312",
+				"Address" : "kWomA7WHb_Preview.png",
+				"ExIsFront" : False
+			},
+			"Back" : {
+				"Hash" : "d4dd7b7e4db6ea17a1103c73595f3312",
+				"Address" : "kWomA7WHb_Back.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "d4dd7b7e4db6ea17a1103c73595f3312",
+				"Address" : "kWomA7WHb_Climb.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : True,
+			"BackmostBack" : True,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "再臨のグリーンバッグ",
+			"Author" : "ごま",
+			"Package" : "SPACE GARDEN",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+			{
+			"Main" : {
+				"Hash" : "2543e65f4db554deca42d8016ecfbe7d",
+				"Address" : "pksWHnAUb_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "f183010faccf34bab33097b51312c443",
+				"Address" : "pksWHnAUb_Climb.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "刺さっちゃった",
+			"Author" : "ねこかぼちゃ",
+			"Package" : "SPACE GARDEN",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "137a1ecc7969d3ed4d8124a9e29ae037",
+				"Address" : "SNFnoLxb_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "9ef1fd2da91ed0d4076b9cd83dbf839b",
+				"Address" : "SNFnoLxb_Climb.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "fixer",
+			"Author" : "ねこかぼちゃ",
+			"Package" : "SPACE GARDEN",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "9d86f9ed2b10b9f4c37f1af353a6e24a",
+				"Address" : "LLnWo9aMb_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "17540c97c7de83f8ad6d9b5ccdca0c0b",
+				"Address" : "LLnWo9aMb_Climb.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "スクープ!!",
+			"Author" : "ねこかぼちゃ",
+			"Package" : "SPACE GARDEN",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+            "Main" : {
+                "Hash" : "700e891e581be45e938031f64154f181",
+                "Address" : "xDK09lx5_Main.png",
+                "ExIsFront" : False,
+                "Length" : 3
+            },
+            "Climb" : {
+                "Hash" : "700e891e581be45e938031f64154f181",
+                "Address" : "xDK09lx5_Climb.png",
+                "ExIsFront" : False,
+                "Length" : 3
+            },
+            "Adaptive" : False,
+            "BehindHat" : False,
+            "BackmostBack" : False,
+            "Fixed" : False,
+            "FPS" : 3,
+            "Name" : "モバイル回線",
+            "Author" : "ねこかぼちゃ",
+            "Package" : "SPACE GARDEN",
+            "CommSabAlternative" : {
+                "Name" : "モバイル回線_comm",
+                "Author" : "ねこかぼちゃ"
+            },
+            "IsUnlockable" : False,
+            "IsLocalizable" : True
+        },
+        {
+            "Main" : {
+                "Hash" : "0e9d5acd0d90ec54d7df669097217b6a",
+                "Address" : "xDK09lx5_comm.png",
+                "ExIsFront" : False
+            },
+            "Climb" : {
+                "Hash" : "700e891e581be45e938031f64154f181",
+                "Address" : "xDK09lx5_comm_Climb.png",
+                "ExIsFront" : False
+            },
+            "Adaptive" : False,
+            "BehindHat" : False,
+            "BackmostBack" : False,
+            "Fixed" : False,
+            "Name" : "モバイル回線_comm",
+            "Author" : "ねこかぼちゃ",
+            "Package" : "SPACE GARDEN",
+            "IsHidden" : True,
+            "IsUnlockable" : False,
+            "IsLocalizable" : True
+        },
+		{
+            "Main" : {
+                "Hash" : "dad7742d4b063606db2c9b102627b9f6",
+                "Address" : "qnd_Main.png",
+                "ExHash" : "8f6989f69f5e8634594bd8f1e2742326",
+                "ExAddress" : "l9CIezw_Main.png",
+                "ExIsFront" : False
+            },
+            "Climb" : {
+                "Address" : "",
+                "ExHash" : "da896d2a674cdb0f155659092b78b1fa",
+                "ExAddress" : "l9CIezw_Climb.png",
+                "ExIsFront" : False
+            },
+            "Bounce" : False,
+            "Adaptive" : True,
+            "HideHands" : False,
+            "IsSkinny" : False,
+            "SeekerCostume" : True,
+            "FPS" : 1,
+            "Name" : "ゴミ捨て",
+            "Author" : "ねこかぼちゃ",
+            "Package" : "SPACE GARDEN",
+            "IsUnlockable" : False,
+            "IsLocalizable" : True
+        },
+		{
+            "Main" : {
+                "Hash" : "4a67a0cabe1b077442d84d3c04be62ea",
+                "Address" : "Oage.png",
+                "ExHash" : "f6ba66e1d610b686cb17a299db9fdd7e",
+                "ExAddress" : "Oage_Ex.png",
+                "ExIsFront" : True
+            },
+            "Climb" : {
+                "Address" : "",
+                "ExHash" : "f8569f31f1fb9c78b264ed1309486f48",
+                "ExAddress" : "Oage_Climb_Ex.png",
+                "ExIsFront" : True
+            },
+            "Bounce" : False,
+            "Adaptive" : True,
+            "HideHands" : False,
+            "IsSkinny" : False,
+            "SeekerCostume" : True,
+            "FPS" : 1,
+            "Name" : "お揚げ",
+            "Author" : "ねこかぼちゃ",
+            "Package" : "SPACE GARDEN",
+            "OnButton" : {
+                "Name" : "Oage(Ob)",
+                "Author" : "ねこかぼちゃ"
+            },
+            "IsUnlockable" : False,
+            "IsLocalizable" : True
+        },
+        {
+            "Main" : {
+                "Hash" : "4a67a0cabe1b077442d84d3c04be62ea",
+                "Address" : "Oage.png",
+                "ExHash" : "d4f24b12a592c554b6807969649547f1",
+                "ExAddress" : "Oage(Ob)_Ex.png",
+                "ExIsFront" : True
+            },
+            "Climb" : {
+                "Address" : "",
+                "ExHash" : "201d534218c36692473a5e171767018b",
+                "ExAddress" : "Oage_Climb(Ob)_Ex.png",
+                "ExIsFront" : True
+            },
+            "Bounce" : False,
+            "Adaptive" : True,
+            "HideHands" : False,
+            "IsSkinny" : False,
+            "SeekerCostume" : True,
+            "FPS" : 1,
+            "Name" : "Oage(Ob)",
+            "Author" : "ねこかぼちゃ",
+            "Package" : "SPACE GARDEN",
+            "IsHidden" : True,
+            "OnButton" : {
+                "Name" : "お揚げ",
+                "Author" : "ねこかぼちゃ"
+            },
+            "IsUnlockable" : False,
+            "IsLocalizable" : True
+        },
+		{
+            "Main" : {
+                "Hash" : "31afd79fb769569258c088260a3b062a",
+                "Address" : "BCEvsHuyc_Main.png",
+                "ExIsFront" : False
+            },
+            "Move" : {
+                "Hash" : "c9234b2aa8a713bb2e39f43b3f0d55eb",
+                "Address" : "BCEvsHuyc_Move.png",
+                "ExIsFront" : False,
+                                "Length" : 4
+            },
+            "Climb" : {
+                "Hash" : "32feb80534187f9707700a58fb10e64b",
+                "Address" : "BCEvsHuyc_Climb.png",
+                "ExIsFront" : False
+            },
+            "Bounce" : True,
+            "Adaptive" : True,
+            "HideHands" : False,
+            "IsSkinny" : False,
+            "SeekerCostume" : True,
+            "FPS" : 12,
+            "Name" : "collator",
+            "Author" : "ねこかぼちゃ",
+            "Package" : "SPACE GARDEN",
+            "IsUnlockable" : False,
+            "IsLocalizable" : True
+        }
 	],
 	"Nameplates" : [
 		{
@@ -645,6 +982,19 @@
 		}
 	],
 	"Stamps" : [
+		{
+            "Author": "catudon",
+            "Package": "SPACE GARDEN",
+            "Name": "ひじき",
+            "Adaptive" : "true",
+            "Image": {
+                "Address": "LoDe.png",
+                "Hash" : "cb15c0a0244aa5422f6459e69cfcef4e8b85f1c2",
+                "ExAddress": "LoDe_ExH.png",
+                "ExHash" : "fd7a0582397bd971072ea3497db6e3a3e647ae3a",
+                "ExIsFront": "true"
+            }
+        },
 	],
 	"Packages" : [
 		{
@@ -656,6 +1006,12 @@
 	],
 	"IsLocalizable" : True
 }
+
+
+
+
+
+
 
 
 
